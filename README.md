@@ -1,6 +1,4 @@
-# Simple Camera
-<img alt="Logo" src="graphics/icon.png" width="120" />
-
+# MinerCamera
 This handy camera app is usable for both easy photo taking and video recording. You can also make different photo frames with this aesthetic photo editor and collage maker camera app. You can quickly switch between the front and rear camera in this open camera app, modify the save path or limit the resolution for your photo frames. This open camera app also helps you in defining photo frames so that you can take pictures with high resolution. You will never miss the important moments of your life. There are many helpful settings available to make it even more personal, suited for your needs. Let's list some of them.
 
 The flash can be turned on and off or used as a useful flashlight, which is not seen often. You can pinch the screen to zoom in and out or toggle horizontal image swapping during capturing fantastic portrait photos with different cool photo frames. You can also perform object removal using this camera app to focus on the main object in picture rather than allowing other noises to come in picture. Most camera apps have failed to done so but this object removal camera app has taken the technology one level up by giving this feature in this app. You can also use face swap for fun photo frames with your friends and family.
